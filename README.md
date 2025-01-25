@@ -1,6 +1,6 @@
 # Olá, eu sou o André Severo 👋
 
-##### Sou um analista de dados apaixonado por transformar dados brutos em insights acionáveis. Com experiência significativa em Python, SQL Server e R, eu aplico métodos analíticos e estatísticos para resolver problemas complexos e melhorar a tomada de decisões.
+##### Sou analista de dados apaixonado por transformar dados brutos em insights acionáveis. Com experiência significativa em Python, SQL Server e R, aplico métodos analíticos e estatísticos para resolver problemas complexos e melhorar a tomada de decisões.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-anjob&show_icons=true&theme=transparent)
 
